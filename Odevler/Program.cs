@@ -19,9 +19,9 @@ namespace Odevler
 
             Console.WriteLine("Yaşınız: " + result2);
 
-            int number5 = 3000;
+            int number5;
             int number6 = 1992;
-            var result3 = Age3(out number5, number6);
+            var result3 = Age3(out number5,number6);
 
             Console.WriteLine("Yaşınız: " + result3);
 
