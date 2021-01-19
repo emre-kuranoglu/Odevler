@@ -39,7 +39,7 @@ namespace ClassMetotDemo
             MusteriManager musteriManager = new MusteriManager();
             musteriManager.Ekle(musteri4);
 
-            musteriManager.Listele(musteri1, musteri2, musteri3, musteri4);
+            musteriManager.Listele(musteriler);
 
             musteriManager.Sil(musteri2);
 
