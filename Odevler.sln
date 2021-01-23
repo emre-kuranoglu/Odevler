@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev17012021", "Odevler\Ode
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{5C132171-0BB1-4790-801A-F24B078A9B68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{7EEF5D05-86EC-49C3-94AE-698E12B601B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5C132171-0BB1-4790-801A-F24B078A9B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C132171-0BB1-4790-801A-F24B078A9B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C132171-0BB1-4790-801A-F24B078A9B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEF5D05-86EC-49C3-94AE-698E12B601B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEF5D05-86EC-49C3-94AE-698E12B601B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEF5D05-86EC-49C3-94AE-698E12B601B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEF5D05-86EC-49C3-94AE-698E12B601B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
